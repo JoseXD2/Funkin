@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "puffshroom left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "puffshroom down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "puffshroom up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "puffshroom right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "puffshroom idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/puffshroom",
+	"position": [
+		-280,
+		10
+	],
+	"healthicon": "puff",
+	"flip_x": false,
+	"healthbar_colors": [
+		106,
+		43,
+		157
+	],
+	"camera_position": [
+		570,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

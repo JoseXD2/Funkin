@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nenufar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nenufar down0000" x="7586" y="0" width="578" height="310" frameX="-2" frameY="-35" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0001" x="7008" y="0" width="578" height="338" frameX="-2" frameY="-6" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0002" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0003" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0004" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0005" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0006" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0007" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar down0008" x="3539" y="0" width="579" height="356" frameX="0" frameY="0" frameWidth="580" frameHeight="356"/>
+	<SubTexture name="nenufar idle0000" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0001" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0002" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0003" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0004" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0005" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0006" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0007" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0008" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0009" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0010" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0011" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0012" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0013" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0014" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0015" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0016" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0017" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0018" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0019" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0020" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0021" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0022" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0023" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0024" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0025" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0026" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0027" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0028" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0029" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0030" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0031" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0032" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0033" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0034" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0035" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0036" x="5852" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0037" x="6430" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar idle0038" x="6430" y="0" width="578" height="346"/>
+	<SubTexture name="nenufar left0000" x="0" y="0" width="607" height="538"/>
+	<SubTexture name="nenufar left0001" x="0" y="0" width="607" height="538"/>
+	<SubTexture name="nenufar left0002" x="2377" y="0" width="584" height="442" frameX="-14" frameY="-68" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0003" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0004" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0005" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0006" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0007" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0008" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar left0009" x="4118" y="0" width="578" height="356" frameX="-15" frameY="-137" frameWidth="607" frameHeight="538"/>
+	<SubTexture name="nenufar rigth0000" x="607" y="0" width="593" height="530" frameX="0" frameY="0" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0001" x="607" y="0" width="593" height="530" frameX="0" frameY="0" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0002" x="1200" y="0" width="599" height="461" frameX="0" frameY="-54" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0003" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0004" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0005" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0006" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0007" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0008" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar rigth0009" x="4696" y="0" width="578" height="356" frameX="-1" frameY="-132" frameWidth="599" frameHeight="530"/>
+	<SubTexture name="nenufar up0000" x="1799" y="0" width="578" height="463"/>
+	<SubTexture name="nenufar up0001" x="1799" y="0" width="578" height="463"/>
+	<SubTexture name="nenufar up0002" x="2961" y="0" width="578" height="416" frameX="0" frameY="-43" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0003" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0004" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0005" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0006" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0007" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0008" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+	<SubTexture name="nenufar up0009" x="5274" y="0" width="578" height="356" frameX="0" frameY="-99" frameWidth="578" frameHeight="463"/>
+</TextureAtlas>

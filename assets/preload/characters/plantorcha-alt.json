@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "plantorcha-alt idle"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "plantorcha-alt left"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "plantorcha-alt down"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "plantorcha-alt up"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "plantorcha-alt right"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "parpadeo",
+			"loop": true,
+			"name": "plantorcha-alt trans-yellow"
+		},
+		{
+			"offsets": [
+				-43,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "trans",
+			"loop": false,
+			"name": "plantorcha-alt trans-yellow"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/plantorcha-alt",
+	"position": [
+		-460,
+		-620
+	],
+	"healthicon": "plantorcha-alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		52,
+		3
+	],
+	"camera_position": [
+		370,
+		700
+	],
+	"sing_duration": 4,
+	"scale": 0.499999999999999
+}

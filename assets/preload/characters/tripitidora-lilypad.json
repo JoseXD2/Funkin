@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-23
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "tripitidora-lilypad idle"
+		},
+		{
+			"offsets": [
+				51,
+				-29
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tripitidora-lilypad down"
+		},
+		{
+			"offsets": [
+				50,
+				-31
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tripitidora-lilypad left"
+		},
+		{
+			"offsets": [
+				54,
+				-24
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tripitidora-lilypad right"
+		},
+		{
+			"offsets": [
+				54,
+				-29
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "shoot",
+			"indices": [],
+			"name": "tripitidora-lilypad shoot"
+		},
+		{
+			"offsets": [
+				48,
+				-33
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tripitidora-lilypad up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tripitidora-lilypad",
+	"position": [
+		-80,
+		-70
+	],
+	"healthicon": "tripi",
+	"flip_x": false,
+	"healthbar_colors": [
+		119,
+		255,
+		16
+	],
+	"camera_position": [
+		200,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

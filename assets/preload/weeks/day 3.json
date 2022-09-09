@@ -1,0 +1,41 @@
+{
+	"storyName": "sea-puffshroom and cactus",
+	"difficulties": "hard, expert, only-arrows",
+	"hideFreeplay": false,
+	"weekBackground": "pool-night",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"whater-night",
+			"sea-puff",
+			[
+				15,
+	                  	255,
+	                	160
+			]
+		],
+		[
+			"spikes",
+			"cactus",
+			[
+				0,
+				55,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "day 2"
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Lily-pad and Cattail",
+	"difficulties": "hard, expert, only-arrows",
+	"hideFreeplay": false,
+	"weekBackground": "pool",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [		
+		[
+			"jelly",
+			"nenufar",
+			[
+				95,
+				235,
+				140
+			]
+		],
+		[
+			"miau",
+			"cattail",
+			[
+				255,
+				93,
+				173
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

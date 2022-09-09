@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_zombie_globo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="834" height="877" frameX="0" frameY="-1" frameWidth="834" frameHeight="878"/>
+	<SubTexture name="idle0001" x="0" y="877" width="804" height="876" frameX="-13" frameY="0" frameWidth="834" frameHeight="878"/>
+	<SubTexture name="idle0002" x="0" y="877" width="804" height="876" frameX="-13" frameY="0" frameWidth="834" frameHeight="878"/>
+	<SubTexture name="idle0003" x="804" y="877" width="803" height="871" frameX="-13" frameY="-3" frameWidth="834" frameHeight="878"/>
+	<SubTexture name="idle0004" x="804" y="877" width="803" height="871" frameX="-13" frameY="-3" frameWidth="834" frameHeight="878"/>
+	<SubTexture name="idle0005" x="804" y="877" width="803" height="871" frameX="-13" frameY="-3" frameWidth="834" frameHeight="878"/>
+</TextureAtlas>

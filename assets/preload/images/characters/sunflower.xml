@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sunflower.png"><SubTexture name="sunflower left0000" x="0" y="1590" width="1007" height="1554" frameX="-305" frameY="-122" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower left0001" x="1031" y="3144" width="1015" height="1505" frameX="-297" frameY="-171" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower left0002" x="2001" y="0" width="977" height="1574" frameX="-335" frameY="-102" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower down0000" x="2323" y="4656" width="1046" height="1371" frameX="-401" frameY="-287" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower down0001" x="4971" y="2907" width="1166" height="1404" frameX="-281" frameY="-254" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower down0002" x="4971" y="1473" width="1228" height="1434" frameX="-241" frameY="-224" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower down0003" x="0" y="4656" width="1268" height="1462" frameX="-220" frameY="-196" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower down0004" x="4971" y="0" width="1265" height="1473" frameX="-223" frameY="-196" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower up0000" x="0" y="0" width="972" height="1590" frameX="-362" frameY="-85" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower up0001" x="2038" y="1590" width="974" height="1536" frameX="-379" frameY="-139" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower up0002" x="3012" y="1590" width="973" height="1524" frameX="-388" frameY="-152" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower right0000" x="3077" y="3144" width="965" height="1475" frameX="-525" frameY="-212" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower right0001" x="4009" y="1512" width="960" height="1487" frameX="-474" frameY="-200" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower right0002" x="4009" y="0" width="962" height="1512" frameX="-428" frameY="-175" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower idle0000" x="2046" y="3144" width="1031" height="1482" frameX="-370" frameY="-194" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower idle0001" x="0" y="3144" width="1031" height="1512" frameX="-372" frameY="-164" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower idle0002" x="1007" y="1590" width="1031" height="1541" frameX="-354" frameY="-134" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower idle0003" x="2978" y="0" width="1031" height="1562" frameX="-342" frameY="-113" frameWidth="1844" frameHeight="1784" />
+<SubTexture name="sunflower idle0004" x="972" y="0" width="1029" height="1578" frameX="-337" frameY="-97" frameWidth="1844" frameHeight="1784" />
+</TextureAtlas>

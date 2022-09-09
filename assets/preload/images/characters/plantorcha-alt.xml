@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plantorcha-alt.png"><SubTexture name="plantorcha-alt down0000" x="0" y="1750" width="704" height="824" frameX="-140" frameY="-908" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt down0001" x="704" y="1750" width="704" height="800" frameX="-140" frameY="-932" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt up0000" x="1408" y="1750" width="704" height="800" frameX="-140" frameY="-932" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt up0001" x="1408" y="888" width="704" height="832" frameX="-140" frameY="-900" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt up0002" x="704" y="888" width="704" height="856" frameX="-140" frameY="-876" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt right0000" x="1408" y="0" width="720" height="864" frameX="-140" frameY="-868" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt right0001" x="0" y="0" width="704" height="888" frameX="-140" frameY="-844" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt right0002" x="704" y="0" width="704" height="880" frameX="-140" frameY="-852" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt left0000" x="2112" y="1750" width="704" height="776" frameX="-140" frameY="-956" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt left0001" x="2832" y="0" width="704" height="768" frameX="-140" frameY="-964" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt left0002" x="2832" y="768" width="704" height="760" frameX="-140" frameY="-972" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt idle0000" x="2128" y="0" width="704" height="832" frameX="-140" frameY="-900" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt idle0001" x="2128" y="832" width="704" height="832" frameX="-140" frameY="-900" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt parpdeo0000" x="0" y="2574" width="704" height="470" frameX="-140" frameY="-1262" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt trans-yellow0000" x="2832" y="1528" width="704" height="678" frameX="-140" frameY="-1054" frameWidth="1803" frameHeight="1888" />
+<SubTexture name="plantorcha-alt trans-yellow0001" x="0" y="888" width="704" height="862" frameX="-140" frameY="-870" frameWidth="1803" frameHeight="1888" />
+</TextureAtlas>

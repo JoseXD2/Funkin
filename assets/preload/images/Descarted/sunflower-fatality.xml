@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunflower-fatality.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunflower bop 20000" x="0" y="1061" width="409" height="510" frameX="0" frameY="-49" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20001" x="409" y="1061" width="409" height="510" frameX="0" frameY="-49" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20002" x="0" y="557" width="424" height="504" frameX="0" frameY="-55" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20003" x="830" y="0" width="420" height="549" frameX="-20" frameY="-9" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20004" x="830" y="549" width="420" height="549" frameX="-20" frameY="-9" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20005" x="0" y="0" width="415" height="557" frameX="-24" frameY="0" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20006" x="415" y="0" width="415" height="557" frameX="-24" frameY="0" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20007" x="818" y="1098" width="361" height="519" frameX="-10" frameY="-38" frameWidth="440" frameHeight="559"/>
+	<SubTexture name="sunflower bop 20008" x="0" y="0" width="415" height="557" frameX="-24" frameY="0" frameWidth="440" frameHeight="559"/>
+</TextureAtlas>

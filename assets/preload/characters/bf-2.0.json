@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				217,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				318,
+				390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				125,
+				312
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				296
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf zombie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				444
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf zombie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				322,
+				391
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf zombie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				312
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf zombie rigth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				85,
+				440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf zombie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				438
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UPMISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zombie bf 2.0",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zombiebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		134,
+		160
+	],
+	"camera_position": [
+		430,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

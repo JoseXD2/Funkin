@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tripitidora-new-no-lily-pat"><SubTexture name="tripidora-new idle0000" x="1628" y="1649" width="599" height="492" frameX="-145" frameY="-468" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new idle0001" x="1047" y="1649" width="581" height="510" frameX="-153" frameY="-450" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new idle0002" x="1435" y="1113" width="567" height="528" frameX="-167" frameY="-432" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new idle0003" x="0" y="571" width="567" height="542" frameX="-175" frameY="-417" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new down0000" x="1134" y="2175" width="579" height="431" frameX="-193" frameY="-529" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new down0001" x="570" y="2175" width="564" height="443" frameX="-177" frameY="-517" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new down0002" x="0" y="2175" width="570" height="447" frameX="-171" frameY="-513" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new left0000" x="2591" y="0" width="551" height="474" frameX="-129" frameY="-486" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new left0001" x="523" y="1649" width="524" height="513" frameX="-165" frameY="-448" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new left0002" x="2093" y="0" width="498" height="528" frameX="-205" frameY="-434" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new right0000" x="914" y="1113" width="521" height="532" frameX="-314" frameY="-429" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new right0001" x="1127" y="539" width="499" height="538" frameX="-294" frameY="-423" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new right0002" x="1127" y="0" width="523" height="539" frameX="-264" frameY="-422" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new shoot0000" x="0" y="1113" width="465" height="536" frameX="-324" frameY="-424" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new shoot0001" x="567" y="571" width="465" height="540" frameX="-324" frameY="-420" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new shoot0002" x="465" y="1113" width="449" height="536" frameX="-324" frameY="-424" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new shoot0003" x="1650" y="0" width="443" height="538" frameX="-306" frameY="-422" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new up0000" x="0" y="0" width="574" height="571" frameX="-162" frameY="-389" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new up0001" x="574" y="0" width="553" height="556" frameX="-174" frameY="-404" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="tripidora-new up0002" x="0" y="1649" width="523" height="526" frameX="-182" frameY="-434" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

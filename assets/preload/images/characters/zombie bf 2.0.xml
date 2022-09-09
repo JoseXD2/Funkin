@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zombie bf 2.0.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN MISS0000" x="0" y="1512" width="1346" height="1512" frameX="0" frameY="-11" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0001" x="0" y="1512" width="1346" height="1512" frameX="0" frameY="-11" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0002" x="0" y="6044" width="1346" height="1506" frameX="0" frameY="0" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0003" x="0" y="6044" width="1346" height="1506" frameX="0" frameY="0" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0004" x="1346" y="0" width="1346" height="1505" frameX="0" frameY="-4" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0005" x="1346" y="0" width="1346" height="1505" frameX="0" frameY="-4" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0006" x="1346" y="0" width="1346" height="1505" frameX="0" frameY="-4" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE DOWN MISS0007" x="1346" y="0" width="1346" height="1505" frameX="0" frameY="-4" frameWidth="1346" frameHeight="1523"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="1346" y="1505" width="1181" height="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0001" x="2527" y="2479" width="1155" height="1166" frameX="-19" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0002" x="4607" y="3702" width="1130" height="1166" frameX="-38" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0003" x="4607" y="4868" width="1101" height="1166" frameX="-62" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0004" x="5708" y="4868" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0005" x="5708" y="4868" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE LEFT MISS0006" x="5708" y="4868" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="3682" y="2479" width="1088" height="1223" frameX="-55" frameY="0" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0001" x="1346" y="3894" width="1087" height="1219" frameX="-40" frameY="-4" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0002" x="2433" y="6083" width="1087" height="1218" frameX="-24" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0003" x="3520" y="4865" width="1087" height="1216" frameX="-12" frameY="-7" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0004" x="3520" y="6081" width="1086" height="1214" frameX="0" frameY="-9" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0005" x="3520" y="6081" width="1086" height="1214" frameX="0" frameY="-9" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE RIGHT MISS0006" x="3520" y="6081" width="1086" height="1214" frameX="0" frameY="-9" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="BF NOTE UPMISS0000" x="3829" y="0" width="1137" height="1313" frameX="0" frameY="0" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0001" x="3829" y="0" width="1137" height="1313" frameX="0" frameY="0" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0002" x="6103" y="1295" width="1137" height="1285" frameX="0" frameY="-39" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0003" x="6103" y="1295" width="1137" height="1285" frameX="0" frameY="-39" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0004" x="6103" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0005" x="6103" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="BF NOTE UPMISS0006" x="6103" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie Idle0000" x="4770" y="2580" width="1100" height="1070"/>
+	<SubTexture name="bf zombie Idle0001" x="4770" y="2580" width="1100" height="1070"/>
+	<SubTexture name="bf zombie Idle0002" x="5870" y="2580" width="984" height="964" frameX="-64" frameY="-45" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0003" x="5870" y="2580" width="984" height="964" frameX="-64" frameY="-45" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0004" x="6723" y="3544" width="940" height="944" frameX="-92" frameY="-56" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0005" x="6723" y="3544" width="940" height="944" frameX="-92" frameY="-56" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0006" x="5737" y="3650" width="986" height="978" frameX="-71" frameY="-31" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0007" x="5737" y="3650" width="986" height="978" frameX="-71" frameY="-31" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0008" x="5737" y="3650" width="986" height="978" frameX="-71" frameY="-31" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0009" x="5737" y="3650" width="986" height="978" frameX="-71" frameY="-31" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0010" x="6854" y="2580" width="940" height="942" frameX="-94" frameY="-54" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0011" x="6854" y="2580" width="940" height="942" frameX="-94" frameY="-54" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie Idle0012" x="3521" y="3702" width="997" height="996" frameX="-66" frameY="-25" frameWidth="1100" frameHeight="1070"/>
+	<SubTexture name="bf zombie down0000" x="0" y="0" width="1346" height="1512" frameX="0" frameY="-15" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0001" x="0" y="0" width="1346" height="1512" frameX="0" frameY="-15" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0002" x="0" y="3024" width="1346" height="1510" frameX="0" frameY="0" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0003" x="0" y="3024" width="1346" height="1510" frameX="0" frameY="0" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0004" x="0" y="4534" width="1346" height="1510" frameX="0" frameY="-3" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0005" x="0" y="4534" width="1346" height="1510" frameX="0" frameY="-3" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0006" x="0" y="4534" width="1346" height="1510" frameX="0" frameY="-3" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie down0007" x="0" y="4534" width="1346" height="1510" frameX="0" frameY="-3" frameWidth="1346" frameHeight="1527"/>
+	<SubTexture name="bf zombie left0000" x="2692" y="1313" width="1181" height="1166"/>
+	<SubTexture name="bf zombie left0001" x="2692" y="1313" width="1181" height="1166"/>
+	<SubTexture name="bf zombie left0002" x="4606" y="6081" width="1130" height="1166" frameX="-38" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="bf zombie left0003" x="4606" y="6081" width="1130" height="1166" frameX="-38" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="bf zombie left0004" x="3873" y="1313" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="bf zombie left0005" x="3873" y="1313" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="bf zombie left0006" x="3873" y="1313" width="1071" height="1166" frameX="-87" frameY="0" frameWidth="1181" frameHeight="1166"/>
+	<SubTexture name="bf zombie rigth0000" x="1346" y="2671" width="1088" height="1223" frameX="-55" frameY="0" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0001" x="2434" y="3645" width="1087" height="1220" frameX="-40" frameY="-3" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0002" x="2433" y="4865" width="1087" height="1218" frameX="-24" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0003" x="1346" y="5113" width="1087" height="1218" frameX="-12" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0004" x="1346" y="6331" width="1086" height="1218" frameX="0" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0005" x="1346" y="6331" width="1086" height="1218" frameX="0" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie rigth0006" x="1346" y="6331" width="1086" height="1218" frameX="0" frameY="-5" frameWidth="1143" frameHeight="1223"/>
+	<SubTexture name="bf zombie up0000" x="2692" y="0" width="1137" height="1313" frameX="0" frameY="0" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0001" x="2692" y="0" width="1137" height="1313" frameX="0" frameY="0" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0002" x="4966" y="1295" width="1137" height="1285" frameX="0" frameY="-39" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0003" x="4966" y="1295" width="1137" height="1285" frameX="0" frameY="-39" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0004" x="4966" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0005" x="4966" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+	<SubTexture name="bf zombie up0006" x="4966" y="0" width="1137" height="1295" frameX="0" frameY="-26" frameWidth="1137" frameHeight="1324"/>
+</TextureAtlas>

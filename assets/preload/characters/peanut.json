@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mani idle"
+		},
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mani idle"
+		},
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mani idle"
+		},
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mani idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "mani rigth-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "mani idle"
+		},
+		{
+			"offsets": [
+				248,
+				932
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "mani left-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				170
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "mani up-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/peanut",
+	"position": [
+		-30,
+		180
+	],
+	"healthicon": "nut",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		147,
+		98
+	],
+	"camera_position": [
+		-70,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

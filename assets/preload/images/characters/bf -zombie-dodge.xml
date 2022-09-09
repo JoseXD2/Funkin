@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf -zombie-dodge.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf zombie Idle0000" x="5738" y="3232" width="1180" height="1196"/>
+	<SubTexture name="bf zombie Idle0001" x="5738" y="3232" width="1180" height="1196"/>
+	<SubTexture name="bf zombie Idle0002" x="6918" y="3812" width="1113" height="1120" frameX="-32" frameY="-34" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0003" x="6918" y="3812" width="1113" height="1120" frameX="-32" frameY="-34" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0004" x="4075" y="6581" width="1066" height="1063" frameX="-53" frameY="-59" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0005" x="4075" y="6581" width="1066" height="1063" frameX="-53" frameY="-59" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0006" x="5792" y="0" width="1080" height="1084" frameX="-53" frameY="-46" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie Idle0007" x="5792" y="0" width="1080" height="1084" frameX="-53" frameY="-46" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie Idle0008" x="5792" y="0" width="1080" height="1084" frameX="-53" frameY="-46" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie Idle0009" x="5792" y="0" width="1080" height="1084" frameX="-53" frameY="-46" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie Idle0010" x="5708" y="6044" width="1067" height="1066" frameX="-53" frameY="-58" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0011" x="5708" y="6044" width="1067" height="1066" frameX="-53" frameY="-58" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie Idle0012" x="6918" y="2672" width="1115" height="1140" frameX="-39" frameY="-25" frameWidth="1180" frameHeight="1196"/>
+	<SubTexture name="bf zombie algas aparicion0000" x="5792" y="0" width="1080" height="1084" frameX="-179" frameY="0" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0001" x="6872" y="0" width="1080" height="1084" frameX="-179" frameY="0" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0002" x="7071" y="1084" width="1080" height="1084" frameX="-179" frameY="0" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0003" x="6775" y="6044" width="1063" height="1060" frameX="-179" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0004" x="7020" y="4932" width="1063" height="1060" frameX="-179" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0005" x="5780" y="1612" width="1291" height="1060" frameX="-58" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0006" x="5708" y="4968" width="1312" height="1076" frameX="-46" frameY="-4" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0007" x="2744" y="6065" width="1331" height="1076" frameX="-35" frameY="-4" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0008" x="1392" y="6065" width="1352" height="1076" frameX="-23" frameY="-4" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0009" x="0" y="6138" width="1372" height="1060" frameX="-11" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0010" x="2866" y="5005" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0011" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0012" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0013" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0014" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0015" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0016" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0017" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0018" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0019" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0020" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas aparicion0021" x="0" y="5078" width="1392" height="1060" frameX="0" frameY="-16" frameWidth="1392" frameHeight="1084"/>
+	<SubTexture name="bf zombie algas attack0000" x="4334" y="4968" width="1374" height="1613" frameX="-16" frameY="-82" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0001" x="2922" y="3356" width="1412" height="1649" frameX="-16" frameY="-46" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0002" x="1478" y="0" width="1468" height="1744" frameX="-10" frameY="0" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0003" x="0" y="0" width="1478" height="1787" frameX="0" frameY="0" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0004" x="1478" y="1744" width="1444" height="1722" frameX="-10" frameY="-22" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0005" x="0" y="1787" width="1404" height="1647" frameX="-25" frameY="-45" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0006" x="4404" y="1612" width="1376" height="1620" frameX="-25" frameY="-72" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0007" x="4408" y="0" width="1384" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0008" x="4334" y="3356" width="1404" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0009" x="1443" y="3466" width="1423" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0010" x="0" y="3466" width="1443" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0011" x="2946" y="0" width="1462" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0012" x="2922" y="1744" width="1482" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+	<SubTexture name="bf zombie algas attack0013" x="2922" y="1744" width="1482" height="1612" frameX="-25" frameY="-80" frameWidth="1507" frameHeight="1787"/>
+</TextureAtlas>

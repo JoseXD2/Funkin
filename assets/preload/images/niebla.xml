@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="niebla.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="niebla loop0000" x="0" y="0" width="836" height="218"/>
+	<SubTexture name="niebla loop0001" x="836" y="0" width="836" height="218"/>
+	<SubTexture name="niebla loop0002" x="1672" y="0" width="836" height="218"/>
+	<SubTexture name="niebla loop0003" x="2508" y="0" width="836" height="218"/>
+	<SubTexture name="niebla loop0004" x="0" y="218" width="836" height="218"/>
+	<SubTexture name="niebla loop0005" x="836" y="218" width="836" height="218"/>
+	<SubTexture name="niebla loop0006" x="1672" y="218" width="836" height="218"/>
+	<SubTexture name="niebla loop0007" x="2508" y="218" width="836" height="218"/>
+	<SubTexture name="niebla loop0008" x="0" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0009" x="836" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0010" x="1672" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0011" x="2508" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0012" x="0" y="654" width="836" height="218"/>
+	<SubTexture name="niebla loop0013" x="836" y="654" width="836" height="218"/>
+	<SubTexture name="niebla loop0014" x="1672" y="654" width="836" height="218"/>
+	<SubTexture name="niebla loop0015" x="2508" y="654" width="836" height="218"/>
+	<SubTexture name="niebla loop0016" x="0" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0017" x="836" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0018" x="1672" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0019" x="2508" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0020" x="0" y="1090" width="836" height="218"/>
+	<SubTexture name="niebla loop0021" x="836" y="1090" width="836" height="218"/>
+	<SubTexture name="niebla loop0022" x="1672" y="1090" width="836" height="218"/>
+	<SubTexture name="niebla loop0023" x="2508" y="1090" width="836" height="218"/>
+	<SubTexture name="niebla loop0024" x="0" y="1308" width="836" height="218"/>
+	<SubTexture name="niebla loop0025" x="836" y="1308" width="836" height="218"/>
+	<SubTexture name="niebla loop0026" x="1672" y="1308" width="836" height="218"/>
+	<SubTexture name="niebla loop0027" x="2508" y="1308" width="836" height="218"/>
+	<SubTexture name="niebla loop0028" x="0" y="1526" width="836" height="218"/>
+	<SubTexture name="niebla loop0029" x="836" y="1526" width="836" height="218"/>
+	<SubTexture name="niebla loop0030" x="1672" y="1526" width="836" height="218"/>
+	<SubTexture name="niebla loop0031" x="2508" y="1526" width="836" height="218"/>
+	<SubTexture name="niebla loop0032" x="0" y="1744" width="836" height="218"/>
+	<SubTexture name="niebla loop0033" x="836" y="1744" width="836" height="218"/>
+	<SubTexture name="niebla loop0034" x="1672" y="1744" width="836" height="218"/>
+	<SubTexture name="niebla loop0035" x="2508" y="1744" width="836" height="218"/>
+	<SubTexture name="niebla loop0036" x="0" y="1962" width="836" height="218"/>
+	<SubTexture name="niebla loop0037" x="836" y="1962" width="836" height="218"/>
+	<SubTexture name="niebla loop0038" x="1672" y="1962" width="836" height="218"/>
+	<SubTexture name="niebla loop0039" x="2508" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0040" x="1672" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0041" x="836" y="654" width="836" height="218"/>
+	<SubTexture name="niebla loop0042" x="0" y="436" width="836" height="218"/>
+	<SubTexture name="niebla loop0043" x="2508" y="1962" width="836" height="218"/>
+	<SubTexture name="niebla loop0044" x="0" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0045" x="0" y="2180" width="836" height="218"/>
+	<SubTexture name="niebla loop0046" x="1672" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0047" x="2508" y="872" width="836" height="218"/>
+	<SubTexture name="niebla loop0048" x="836" y="1526" width="836" height="218"/>
+	<SubTexture name="niebla loop0049" x="836" y="1090" width="836" height="218"/>
+	<SubTexture name="niebla loop0050" x="836" y="2180" width="836" height="218"/>
+	<SubTexture name="niebla loop0051" x="1672" y="2180" width="836" height="218"/>
+</TextureAtlas>

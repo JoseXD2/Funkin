@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "plantorcha up"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "plantorcha down"
+		},
+		{
+			"offsets": [
+				-24,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "plantorcha left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "plantorcha right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "plantorcha idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/plantorcha",
+	"position": [
+		-440,
+		-560
+	],
+	"healthicon": "plantorcha",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		52,
+		3
+	],
+	"camera_position": [
+		360,
+		610
+	],
+	"sing_duration": 6.89999999999999,
+	"scale": 0.5
+}

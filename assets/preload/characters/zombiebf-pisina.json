@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				266
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				239,
+				319
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				254
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				1
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				-5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				59
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				143,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "BF dodge"
+		},
+		{
+			"offsets": [
+				-2,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "semi-dodge",
+			"indices": [],
+			"name": "BF semi dodge"
+		},
+		{
+			"offsets": [
+				-3,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "algas",
+			"indices": [],
+			"name": "BF zam"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				356
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf zombie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				312
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf zombie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				316
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf zombie rigth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				334
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf zombie up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				430
+			],
+			"loop": true,
+			"fps": 27,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf zombie Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				363
+			],
+			"anim": "dodge2",
+			"fps": 24,
+			"name": "bf dodge :0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				284
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UPMISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf zombie pisina",
+	"position": [
+		-220,
+		230
+	],
+	"healthicon": "zombiebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		134,
+		160
+	],
+	"camera_position": [
+		330,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

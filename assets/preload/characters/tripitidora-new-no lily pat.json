@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				62,
+				-11
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tripidora-new down"
+		},
+		{
+			"offsets": [
+				60,
+				-23
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "tripidora-new idle"
+		},
+		{
+			"offsets": [
+				67,
+				-17
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "attack",
+			"indices": [],
+			"name": "tripidora-new shoot"
+		},
+		{
+			"offsets": [
+				53,
+				-16
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tripidora-new left"
+		},
+		{
+			"offsets": [
+				56,
+				-7
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tripidora-new up"
+		},
+		{
+			"offsets": [
+				38,
+				-4
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tripidora-new right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tripitidora-new",
+	"position": [
+		-30,
+		-158
+	],
+	"healthicon": "tripi",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		225,
+		76
+	],
+	"camera_position": [
+		-200,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

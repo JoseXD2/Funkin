@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				430
+			],
+			"loop": true,
+			"fps": 27,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf zombie Idle"
+		},
+		{
+			"offsets": [
+				281,
+				448
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "dodge",
+			"loop": false,
+			"name": "bf zombie algas attack"
+		},
+		{
+			"offsets": [
+				158,
+				385
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "semi-dodge",
+			"loop": false,
+			"name": "bf zombie algas aparicion"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf -zombie-dodge",
+	"position": [
+		-220,
+		230
+	],
+	"healthicon": "zombiebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		134,
+		160
+	],
+	"camera_position": [
+		350,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

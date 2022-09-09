@@ -1,0 +1,5 @@
+Does the cool awesome fade
+effect B)
+
+Value 1: Duration (0 = Instant)
+Value 2: The Color (HEX)

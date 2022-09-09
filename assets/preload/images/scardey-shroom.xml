@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scardey-shroom.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scardey-shroom idle0000" x="0" y="242" width="338" height="240" frameX="-5" frameY="-18" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0001" x="0" y="242" width="338" height="240" frameX="-5" frameY="-18" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0002" x="0" y="0" width="380" height="242" frameX="-8" frameY="-3" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0003" x="0" y="0" width="380" height="242" frameX="-8" frameY="-3" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0004" x="380" y="0" width="331" height="255" frameX="0" frameY="-6" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0005" x="380" y="0" width="331" height="255" frameX="0" frameY="-6" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0006" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0007" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0008" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0009" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0010" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0011" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0012" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0013" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0014" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0015" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0016" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0017" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0018" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0019" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0020" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0021" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0022" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0023" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0024" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+	<SubTexture name="scardey-shroom idle0025" x="338" y="255" width="326" height="245" frameX="0" frameY="0" frameWidth="388" frameHeight="261"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "cactus-lily idle"
+		},
+		{
+			"offsets": [
+				-16,
+				12
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cactus-lily left"
+		},
+		{
+			"offsets": [
+				-15,
+				-4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cactus-lily down"
+		},
+		{
+			"offsets": [
+				-9,
+				8
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cactus-lily up"
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cactus-lily right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "shoot",
+			"indices": [],
+			"name": "cactus-lily shoot"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "charge",
+			"indices": [],
+			"name": "cactus-lily charge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cactus-lily",
+	"position": [
+		-230,
+		-210
+	],
+	"healthicon": "cactus",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		156,
+		66
+	],
+	"camera_position": [
+		270,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

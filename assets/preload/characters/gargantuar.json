@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gargantuar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gargantuar down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gargantuar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gargantuar right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "gargantuar idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gargantuar",
+	"position": [
+		-1150,
+		3030
+	],
+	"healthicon": "gargantuar",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		162,
+		118
+	],
+	"camera_position": [
+		180,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kernel-pult left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kernel-pult down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kernel-pult up"
+		},
+		{
+			"offsets": [
+				34,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kernel-pult right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "charge",
+			"indices": [],
+			"name": "kernel-pult charge"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "kernel-pult shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "kernel-pult idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/kernel-pult",
+	"position": [
+		-370,
+		-250
+	],
+	"healthicon": "kernelpult",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		206,
+		0
+	],
+	"camera_position": [
+		0,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

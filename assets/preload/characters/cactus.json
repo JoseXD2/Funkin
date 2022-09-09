@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "cactus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "cactus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				2
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "cactus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "cactus right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shoot",
+			"fps": 16,
+			"name": "cactus shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "cactus idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cactus",
+	"position": [
+		-230,
+		-190
+	],
+	"healthicon": "cactus",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		156,
+		66
+	],
+	"camera_position": [
+		260,
+		170
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

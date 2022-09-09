@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				-166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nenufar down"
+		},
+		{
+			"offsets": [
+				11,
+				-173
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "nenufar idle"
+		},
+		{
+			"offsets": [
+				22,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nenufar left"
+		},
+		{
+			"offsets": [
+				12,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nenufar rigth"
+		},
+		{
+			"offsets": [
+				11,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nenufar up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nenufar",
+	"position": [
+		-50,
+		310
+	],
+	"healthicon": "nenufar",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		186,
+		87
+	],
+	"camera_position": [
+		250,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

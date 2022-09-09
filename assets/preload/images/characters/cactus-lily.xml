@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cactus-lily.png"><SubTexture name="cactus-lily left0000" x="1341" y="3035" width="607" height="718" frameX="-183" frameY="-271" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily left0001" x="3211" y="1466" width="617" height="721" frameX="-175" frameY="-268" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily left0002" x="3211" y="2187" width="645" height="721" frameX="-162" frameY="-268" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily down0000" x="669" y="3035" width="672" height="723" frameX="-135" frameY="-249" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily down0001" x="3211" y="734" width="659" height="732" frameX="-143" frameY="-240" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily down0002" x="2568" y="1500" width="636" height="738" frameX="-155" frameY="-234" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily idle0000" x="1298" y="2287" width="705" height="742" frameX="-138" frameY="-233" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily idle0001" x="0" y="1530" width="694" height="757" frameX="-143" frameY="-218" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily idle0002" x="1884" y="0" width="684" height="759" frameX="-148" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily idle0003" x="670" y="769" width="671" height="760" frameX="-151" frameY="-215" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily idle0004" x="568" y="0" width="658" height="765" frameX="-157" frameY="-210" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily up0000" x="0" y="0" width="568" height="769" frameX="-208" frameY="-209" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily up0001" x="1381" y="1530" width="584" height="754" frameX="-203" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily up0002" x="2568" y="753" width="603" height="747" frameX="-198" frameY="-231" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily right0000" x="2003" y="2287" width="675" height="735" frameX="-176" frameY="-249" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily right0001" x="0" y="3035" width="669" height="733" frameX="-170" frameY="-251" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily right0002" x="3211" y="0" width="660" height="734" frameX="-171" frameY="-250" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily charge0000" x="1226" y="0" width="658" height="763" frameX="-140" frameY="-212" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily charge0001" x="0" y="769" width="670" height="761" frameX="-123" frameY="-214" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily charge0002" x="694" y="1530" width="687" height="755" frameX="-106" frameY="-220" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily shoot0000" x="1884" y="759" width="638" height="758" frameX="-195" frameY="-217" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily shoot0001" x="2568" y="0" width="643" height="753" frameX="-183" frameY="-222" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily shoot0002" x="0" y="2287" width="645" height="748" frameX="-182" frameY="-227" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cactus-lily shoot0003" x="645" y="2287" width="653" height="746" frameX="-165" frameY="-229" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

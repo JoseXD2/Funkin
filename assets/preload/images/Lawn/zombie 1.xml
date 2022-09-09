@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zombie 1"><SubTexture name="zombie idle0000" x="949" y="0" width="334" height="517" frameX="-342" frameY="-461" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="zombie idle0001" x="624" y="0" width="325" height="523" frameX="-351" frameY="-455" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="zombie idle0002" x="309" y="0" width="315" height="528" frameX="-362" frameY="-450" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="zombie idle0003" x="0" y="0" width="309" height="532" frameX="-367" frameY="-445" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

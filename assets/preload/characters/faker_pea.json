@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fake_pea left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fake_pea down"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fake_pea up"
+		},
+		{
+			"offsets": [
+				-10,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fake_pea right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "fake_pea idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fake_pea",
+	"position": [
+		-330,
+		-630
+	],
+	"healthicon": "fakepea",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		202,
+		34
+	],
+	"camera_position": [
+		220,
+		610
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

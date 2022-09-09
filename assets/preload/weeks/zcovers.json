@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hell",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"covers",
+			"nada",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rock-and-roll-cover",
+			"tripi",
+			[
+				106,
+				255,
+				13
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

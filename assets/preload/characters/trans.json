@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "plantorcha up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "plantorcha down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "plantorcha left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "plantorcha rigth"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				50
+			],
+			"anim": "off",
+			"fps": 24,
+			"name": "transform transform off",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "trans",
+			"indices": [],
+			"name": "transform transform blue"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				50
+			],
+			"anim": "another-trans",
+			"fps": 24,
+			"name": "transform transform blue",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				50
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "transform idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/transform",
+	"position": [
+		-470,
+		-510
+	],
+	"healthicon": "plantorcha",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		52,
+		3
+	],
+	"camera_position": [
+		389,
+		660
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

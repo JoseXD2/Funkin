@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cattail left"
+		},
+		{
+			"offsets": [
+				19,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cattail down"
+		},
+		{
+			"offsets": [
+				11,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cattail up"
+		},
+		{
+			"offsets": [
+				19,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cattail right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				4
+			],
+			"anim": "shoot",
+			"fps": 17,
+			"name": "cattail shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				4
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "cattail idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				4
+			],
+			"anim": "charge",
+			"fps": 9,
+			"name": "cattail charge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cattail",
+	"position": [
+		-220,
+		-200
+	],
+	"healthicon": "cattail",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		235
+	],
+	"camera_position": [
+		280,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar0000" x="688" y="0" width="720" height="350" frameX="0" frameY="0" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0001" x="0" y="0" width="688" height="369" frameX="-18" frameY="0" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0002" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0003" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0004" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0005" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0006" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0007" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0008" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0009" x="697" y="350" width="697" height="347" frameX="-18" frameY="-22" frameWidth="720" frameHeight="371"/>
+	<SubTexture name="spacebar0010" x="0" y="369" width="697" height="362" frameX="-17" frameY="-9" frameWidth="720" frameHeight="371"/>
+</TextureAtlas>

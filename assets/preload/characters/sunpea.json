@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				655,
+				708
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sunpea left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				662,
+				713
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunpea down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				670,
+				728
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunpea up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				712
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sunpea right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				710
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "sunpea idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunpea",
+	"position": [
+		-160,
+		60
+	],
+	"healthicon": "icon-sunpea",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		170,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

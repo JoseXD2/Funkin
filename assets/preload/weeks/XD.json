@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "joke",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"peanut",
+			"nut",
+			[
+				255,
+				195,
+				140
+			]
+		],
+		[
+			"revenge-j",
+			"nut-revenge",
+			[
+				255,
+				135,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
